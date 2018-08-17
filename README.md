@@ -5,6 +5,6 @@ This app is made for all my friends. This app is a part of challenge but i made 
 
 
   
-![Alt text](https://i.imgur.com/MkbuR9C.jpg "Splash Screen")
+![Alt text]((https://i.imgur.com/my610rs.jpg) "Splash Screen")
 
 
